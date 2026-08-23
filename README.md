@@ -8,14 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=670&height=44&lines=Aspiring%20AI%2FML%20Engineer;I%20love%20learning%20through%20building%20projects!" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
-🔭 &nbsp;I'm currently working on **exploring projects at the intersection AI/ML and SDE.**  
-🌱 &nbsp;I'm currently learning **CS fundamentals - DSA, OOPS, DBMS**  
-💬 &nbsp;Ask me about **Vuejs, Flask, JAVA, Python, MySQL**  
-⚡ &nbsp;Fun fact: **I am left handed**
+ &nbsp;I'm currently working on **exploring projects at the intersection AI/ML and SDE.**  
+ &nbsp;I'm currently learning **CS fundamentals - DSA, OOPS, DBMS**  
+ &nbsp;Ask me about **Vuejs, Flask, JAVA, Python, MySQL**  
+ &nbsp;Fun fact: **I am left handed**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
