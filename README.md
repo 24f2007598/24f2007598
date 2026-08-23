@@ -10,9 +10,8 @@
 
 ###  About Me
 
- &nbsp;I'm currently working on **exploring projects at the intersection AI/ML and SDE.**  
- &nbsp;I'm currently learning **CS fundamentals - DSA, OOPS, DBMS**  
- &nbsp;Ask me about **Vuejs, Flask, JAVA, Python, MySQL**  
+ &nbsp;I'm currently **exploring projects at the intersection AI/ML and SDE.**  
+ &nbsp;I'm strengthening my **CS fundamentals - DSA, OOPS, DBMS**  
  &nbsp;Fun fact: **I am left handed**
 
 ###  Tech Stack
@@ -50,18 +49,18 @@
   <a href="https://www.linkedin.com/in/lakshana-baskaran/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=24f2007598&show_icons=true&theme=tokyonight&title_color=a3cbff&icon_color=a3cbff&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=24f2007598&layout=compact&theme=tokyonight&title_color=a3cbff&icon_color=a3cbff&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=24f2007598&bg_color=00000000&color=a3cbff&line=a3cbff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/24f2007598">24f2007598</a></i></p>
+<p align="center"><i>From <a href="https://github.com/24f2007598">24f2007598</a></i></p>
