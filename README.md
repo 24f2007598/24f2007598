@@ -1,13 +1,3 @@
-<p align="center">
-  <a href="https://github.com/24f2007598">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a3cbff&fontSize=54&height=90&width=634&text=LAKSHANA%20BASKARAN" alt="LAKSHANA BASKARAN" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=670&height=44&lines=Aspiring%20AI%2FML%20Engineer;I%20love%20learning%20through%20building%20projects!" alt="Typing headlines" />
-</p>
-
 ###  About Me
 
  &nbsp;I'm currently **exploring projects at the intersection AI/ML and SDE.**  
